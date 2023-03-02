@@ -1,0 +1,2 @@
+# curriculo
+repositorio de aprendizagem 
